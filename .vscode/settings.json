@@ -1,5 +1,12 @@
 {
     "cSpell.ignoreWords": [
         "pygame"
+    ],
+    "cSpell.words": [
+        "columnspan",
+        "padx",
+        "pady",
+        "scrollregion",
+        "yscrollcommand"
     ]
 }

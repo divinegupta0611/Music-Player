@@ -1,3 +1,9 @@
-Install libraries
-tk, pygame, requests
+Install libraries - tk, pygame, requests ✅
 
+create a main window and set width and height (400x500) ✅
+
+Set resizable to false ✅
+
+create a label with text - Music Player ✅
+
+A functional Search Bar
